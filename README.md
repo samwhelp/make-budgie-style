@@ -83,13 +83,13 @@ REF_MASTER_DISTRO=archlinux bash <(curl -L https://raw.githubusercontent.com/sam
 * execute local script
 
 ``` sh
-REF_MASTER_STYLE=vimix ./make-budgie-style.sh
+REF_MASTER_STYLE=layan ./make-budgie-style.sh
 ```
 
 * execute remote script
 
 ``` sh
-REF_MASTER_STYLE=vimix bash <(curl -L https://raw.githubusercontent.com/samwhelp/make-budgie-style/refs/heads/main/make-budgie-style.sh)
+REF_MASTER_STYLE=layan bash <(curl -L https://raw.githubusercontent.com/samwhelp/make-budgie-style/refs/heads/main/make-budgie-style.sh)
 ```
 
 
@@ -115,12 +115,12 @@ REF_MASTER_STYLE=vimix bash <(curl -L https://raw.githubusercontent.com/samwhelp
 
 | REF_MASTER_STYLE    |
 | ------------------- |
-| `jasper` (default)  |
-| `graphite`          |
+| `vimix` (default)   |
+| `orchis`            |
 | `fluent`            |
 | `colloid`           |
-| `vimix`             |
-| `orchis`            |
+| `jasper`            |
+| `graphite`          |
 | `layan`             |
 | `lavanda`           |
 | `qogir`             |
