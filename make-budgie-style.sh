@@ -555,8 +555,8 @@ cursor-size=24
 theme='Fluent-round-Dark'
 
 
-[org/gnome/shell/extensions/user-theme]
-name='Fluent-round-Dark'
+[com/solus-project/budgie-panel]
+dark-theme=true
 
 
 __EOF__
@@ -750,8 +750,8 @@ cursor-size=24
 theme='Colloid-Dark'
 
 
-[org/gnome/shell/extensions/user-theme]
-name='Colloid-Dark'
+[com/solus-project/budgie-panel]
+dark-theme=true
 
 
 __EOF__
@@ -945,8 +945,8 @@ cursor-size=24
 theme='Vimix-dark-ruby'
 
 
-[org/gnome/shell/extensions/user-theme]
-name='Vimix-dark-ruby'
+[com/solus-project/budgie-panel]
+dark-theme=true
 
 
 __EOF__
@@ -1384,8 +1384,8 @@ cursor-size=24
 theme='Graphite-Dark'
 
 
-[org/gnome/shell/extensions/user-theme]
-name='Graphite-Dark'
+[com/solus-project/budgie-panel]
+dark-theme=true
 
 
 __EOF__
@@ -1526,8 +1526,8 @@ cursor-size=24
 theme='Jasper-Dark'
 
 
-[org/gnome/shell/extensions/user-theme]
-name='Jasper-Dark'
+[com/solus-project/budgie-panel]
+dark-theme=true
 
 
 __EOF__
@@ -1629,8 +1629,8 @@ cursor-size=24
 theme='Orchis-Dark'
 
 
-[org/gnome/shell/extensions/user-theme]
-name='Orchis-Dark'
+[com/solus-project/budgie-panel]
+dark-theme=true
 
 
 __EOF__
@@ -1732,8 +1732,8 @@ cursor-size=24
 theme='Layan-Dark'
 
 
-[org/gnome/shell/extensions/user-theme]
-name='Layan-Dark'
+[com/solus-project/budgie-panel]
+dark-theme=true
 
 
 __EOF__
@@ -1835,8 +1835,8 @@ cursor-size=24
 theme='Lavanda-Sea-Dark'
 
 
-[org/gnome/shell/extensions/user-theme]
-name='Lavanda-Sea-Dark'
+[com/solus-project/budgie-panel]
+dark-theme=true
 
 
 __EOF__
@@ -1938,8 +1938,8 @@ cursor-size=24
 theme='Qogir-Dark'
 
 
-[org/gnome/shell/extensions/user-theme]
-name='Qogir-Dark'
+[com/solus-project/budgie-panel]
+dark-theme=true
 
 
 __EOF__
