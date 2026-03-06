@@ -12,12 +12,12 @@ help:
 	@echo
 	@echo '	$$ make style-default'
 	@echo
-	@echo '	$$ make style-jasper'
-	@echo '	$$ make style-graphite'
-	@echo '	$$ make style-fluent'
-	@echo '	$$ make style-colloid'
 	@echo '	$$ make style-vimix'
 	@echo '	$$ make style-orchis'
+	@echo '	$$ make style-fluent'
+	@echo '	$$ make style-colloid'
+	@echo '	$$ make style-jasper'
+	@echo '	$$ make style-graphite'
 	@echo '	$$ make style-layan'
 	@echo '	$$ make style-lavanda'
 	@echo '	$$ make style-qogir'
