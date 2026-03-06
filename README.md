@@ -132,7 +132,7 @@ REF_MASTER_STYLE=layan bash <(curl -L https://raw.githubusercontent.com/samwhelp
 
 | Link | GitHub |
 | ---- | ------ |
-| [Xfce Adjustment](https://samwhelp.github.io/xfce-adjustment/) | [GitHub](https://github.com/samwhelp/xfce-adjustment) |
+| [Budgie Adjustment](https://samwhelp.github.io/budgie-adjustment/) | [GitHub](https://github.com/samwhelp/budgie-adjustment) |
 
 
 
